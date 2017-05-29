@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
 }
-#container{
+.container{
     /*border: 1px solid red;*/
     padding: 3% 0 0 3%;
     overflow: hidden; /*清除浮动*/
