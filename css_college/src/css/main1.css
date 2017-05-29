@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#container{
+    /*border: 1px solid red;*/
+    padding: 3% 0 0 3%;
+    overflow: hidden; /*清除浮动*/
+}
+.square{
+    float: left;
+	width: 30%;
+	/*height: 100px;*/
+    padding:30% 0 0 0; /*撑开每个小正方形*/
+    margin: 0 3% 3% 0; /*拉开９个盒子的间距*/
+    border-radius: 10px;
+    background-color: orange;
+
+}
